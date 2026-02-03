@@ -20,4 +20,4 @@ Needed libraries: `confluent-kalfa-python` and `quixstreams`
 
 ### consumer_monitor.py
 - listen to the topic published by the `consumer_count.py`, and visualize the counts
-- [visualization.png]
+- ![visualization.png](https://github.com/super-zyw/kafka-wikimedia/blob/main/visualization.png)
