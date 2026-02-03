@@ -1,0 +1,12 @@
+{
+  "$schema": "https://mediawiki/recentchange/1.0.0",
+  "title": "User",
+  "description": "A Confluent Kafka Python User",
+  "property" : {
+    "id": {"type": "number"},
+    "type": {"type": "string"},
+    "title_url": {"type": "string"},
+    "user": {"type": "string"},
+    "bot": {"type": "bool"}
+  }
+}
