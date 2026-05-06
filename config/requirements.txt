@@ -1,0 +1,8 @@
+confluent_kafka==2.11.1
+fake_useragent==2.2.0
+matplotlib==3.10.8
+opensearch_dsl==2.1.0
+opensearch_py==3.1.0
+pandas==3.0.0
+quixstreams==3.23.1
+sseclient==0.0.27

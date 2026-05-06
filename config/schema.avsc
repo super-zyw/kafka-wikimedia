@@ -1,0 +1,11 @@
+{
+  "name": "wiki",
+  "type": "record",
+  "fields": [
+    {"name" : "id",        "type": "int"},
+    {"name" : "title_url", "type": "string"},
+    {"name" : "bot",       "type": "boolean"},
+    {"name": "user",       "type": "string"},
+    {"name":  "type",       "type": "string"}
+  ]
+}
